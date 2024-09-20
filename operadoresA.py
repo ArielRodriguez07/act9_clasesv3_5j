@@ -7,7 +7,7 @@ class Operadores0706:
 
     def resta0706(self,a,b):
         s0706=a-b
-        print(f"la resta de {a} + {b} = {s0706}")
+        print(f"la resta de {a} - {b} = {s0706}")
     
     def multi0706(self,a,b):
         r0706=a*b
